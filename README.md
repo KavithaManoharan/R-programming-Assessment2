@@ -1,5 +1,3 @@
-# R-programming-Assessment2
-
 # read the R script
 # replace the "path/to/file" with the directory you save the file into
 # or you can read the file directly from the web
